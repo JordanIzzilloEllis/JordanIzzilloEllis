@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JordanIzzilloEllis
 - 👀 I’m interested in developing responsive web applications.
-- 🌱 I’m currently learning JavaScript & NodeJS so I can improve my knowledge of Front-End and Back-End development.
+- 🌱 I’m currently learning JavaScript (vanilla at the moment but I aim to transition to React.js) & C# so I can improve my knowledge of Front-End and Back-End development.
 - 📫 You can reach me at jdellis410@gmail.com
 
 <!---
